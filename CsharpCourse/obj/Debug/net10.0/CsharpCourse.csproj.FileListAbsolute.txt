@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\bin\Debug\net10.0\CsharpCourse.exe
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\bin\Debug\net10.0\CsharpCourse.deps.json
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\bin\Debug\net10.0\CsharpCourse.runtimeconfig.json
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\bin\Debug\net10.0\CsharpCourse.dll
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\bin\Debug\net10.0\CsharpCourse.pdb
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.sourcelink.json
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.dll
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\refint\CsharpCourse.dll
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.pdb
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\CsharpCourse.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-Complrete-course\CsharpCourse\obj\Debug\net10.0\ref\CsharpCourse.dll
