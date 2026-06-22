@@ -1,71 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
+using System;
+
 namespace Hello
 {
-    public class Program
+    class Program
     {
         public static void Main(string[] args)
         {
-            string[] foods = new string[5];
-            foods[0] = "pizza";
-            foods[1] = "pizza";
-            foods[2] = "Burger";
-            foods[3] = "Donat";
-            foods[4] = "Firfir";
-            // print foods
-            foreach (var food in foods)
-            {
-                Console.WriteLine(food);
-                Console.WriteLine(food);
-            }
-
-            Console.WriteLine("++++++++++++++");
-            // list in c#
-            List<string> students = new List<string>();
-            students.Add("Samuel");
-            students.Add("Abel");
-            students.Add("Henok");
-            students.Add("aster");
-
-            // excute the lists of student in foreach method
-            foreach (string student in students)
-            {
-                Console.WriteLine(student);
-            }
+            Animal animal = new Animal(12, "surafel Mmengist");
+            Console.WriteLine($"My name is {animal.Name}");
+        }
+    }
 
 
-        // list of numbers 
-        List<int> numbers= new List<int>();
-        numbers.Add(12);
-        numbers.Add(15);
-        numbers.Add(14);
-        numbers.Add(17);
-        numbers.Add(19);
-        numbers.Add(20);
-      
+    public class Animal
+    {
+        private int age;
+        private string name;
 
-    //   excute the numbers list 
-      foreach(int val in numbers)
-            {
-                System.Console.WriteLine(val);
-            }
+        public Animal(int age, string name)
+        {
+            this.age = age;
+            this.name = name;
+        }
 
-            // list of frainds
-            List<string> frainds= new List<string>
-            {
-               "abreham",
-               "Samuel",
-               "Sara",
-               "Yeshemebet",
-               "Samson",
-               "Seada"
-            };
-
-            foreach (var items in frainds)
-            {
-                
-                System.Console.WriteLine(items.Count());
-            }
+        public string Name
+        {
+            get { return name; }
         }
     }
 }
+
+
+
+
+
